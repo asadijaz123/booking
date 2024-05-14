@@ -1,0 +1,6335 @@
+{
+	"createdAt": 1711539938987,
+	"editedAt": 1711539938987,
+	"data": {
+		"loaded": false,
+		"planId": "41q8gyvm6o88eiwyt9p3",
+		"showExitEditorDialog": false,
+		"showNotValidatedDialog": false,
+		"showValidationDialog": false,
+		"showPublishDetailsDailog": true,
+		"noOfTables": 0,
+		"squares": [
+			{
+				"objectType": "square",
+				"beingCreated": false,
+				"selected": false,
+				"start": {
+					"x": 884.515625,
+					"y": 765.25
+				},
+				"height": -202,
+				"width": -425,
+				"id": "kydnmgyah8b3bjo37kn4",
+				"rounded": false,
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"color": "",
+				"label": "",
+				"type": "standing",
+				"colorType": "filled",
+				"categoryId": "cat3",
+				"seats": [],
+				"capacityData": [
+					{
+						"ticketId": "1",
+						"capcity": 50
+					},
+					{
+						"ticketId": "2",
+						"capcity": 25
+					}
+				]
+			},
+			{
+				"objectType": "square",
+				"beingCreated": false,
+				"selected": false,
+				"start": {
+					"x": 104.515625,
+					"y": 424.25
+				},
+				"height": 213,
+				"width": 368,
+				"id": "2m25s2duzx3hdq3itg93",
+				"rounded": false,
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"color": "",
+				"label": "",
+				"type": "standing",
+				"colorType": "filled",
+				"categoryId": "cat3",
+				"seats": [],
+				"capacityData": [
+					{
+						"ticketId": "1",
+						"capcity": 50
+					},
+					{
+						"ticketId": "2",
+						"capcity": 25
+					}
+				]
+			}
+		],
+		"testPoints": [],
+		"polygons": [],
+		"roundTables": [],
+		"rectTables": [],
+		"moveStarted": false,
+		"rowSizeChangePointType": "start",
+		"changingRowSeats": false,
+		"mouse": {
+			"x": 794.515625,
+			"y": 132.25
+		},
+		"rowGroups": [
+			{
+				"rowsLabelStartingAt": "",
+				"id": "tc4n30u6pjcpvhpa79zf",
+				"rowsLabelType": "numbers-normal",
+				"rowSpacing": 2,
+				"beingCreated": false,
+				"selected": false,
+				"rowStyle": 0,
+				"noOfRows": 8,
+				"reverseRowsLabel": false
+			},
+			{
+				"rowsLabelStartingAt": "",
+				"id": "lyw8pldee6js36afvfuy",
+				"rowsLabelType": "numbers-normal",
+				"rowSpacing": 2,
+				"beingCreated": false,
+				"selected": false,
+				"rowStyle": 0,
+				"noOfRows": 8,
+				"reverseRowsLabel": false
+			},
+			{
+				"rowsLabelStartingAt": "",
+				"id": "nji1pp0fxl2i33kg57m0",
+				"rowsLabelType": "numbers-normal",
+				"rowSpacing": 2,
+				"beingCreated": false,
+				"selected": false,
+				"rowStyle": 0,
+				"noOfRows": 5,
+				"reverseRowsLabel": false
+			}
+		],
+		"categoryDialogData": {
+			"position": {
+				"x": 0,
+				"y": 0
+			},
+			"open": false
+		},
+		"colorDialogData": {
+			"color": "",
+			"open": false,
+			"position": {
+				"x": 0,
+				"y": 0
+			},
+			"colorType": "filled"
+		},
+		"rectTableOptions": {
+			"height": 2,
+			"width": 4,
+			"label": "1",
+			"reverseLabel": false,
+			"seats": [],
+			"seatsBottom": 4,
+			"seatsTop": 4,
+			"seatsLeft": 2,
+			"seatsRight": 2,
+			"seatsLabelType": "numbers-normal",
+			"startingAt": ""
+		},
+		"roundTableOptions": {
+			"startingAt": "",
+			"label": "1",
+			"noOfSeats": 8,
+			"reverseLabel": false,
+			"seatsLabelType": "numbers-normal"
+		},
+		"defaultRowOptions": {
+			"gapping": 1,
+			"labelPosition": "left-right",
+			"label": "A",
+			"reverseLabel": false,
+			"startingAt": "1",
+			"labelType": "numbers-normal"
+		},
+		"defaultRowGroupOptions": {
+			"gapping": 1,
+			"rowSpacing": 1,
+			"rowStyle": 0,
+			"rowsLabelType": "numbers-normal",
+			"labelPosition": "left-right",
+			"reverseLabel": false,
+			"startingAt": "1",
+			"labelType": "numbers-normal"
+		},
+		"dotUsedForRotation": "top-left",
+		"settings": {
+			"zoom": 1,
+			"height": 1000,
+			"width": 1000,
+			"backgroundImage": "",
+			"backgroundOpacity": 50,
+			"name": "",
+			"category": "cat3",
+			"allTickets": [
+				{
+					"id": "1",
+					"name": "Adults",
+					"price": 10
+				},
+				{
+					"id": "2",
+					"name": "Kids",
+					"price": 5
+				}
+			],
+			"allCategories": [
+				{
+					"color": {
+						"background": ""
+					},
+					"name": "No Category",
+					"disablity": false,
+					"id": "0",
+					"ticketIds": []
+				},
+				{
+					"color": {
+						"background": "rgba(238, 219, 121, 1)"
+					},
+					"name": "test",
+					"disablity": false,
+					"id": "cat1",
+					"ticketIds": [
+						"1"
+					]
+				},
+				{
+					"color": {
+						"background": "rgba(254, 101, 101, 1)",
+						"foreground": "white"
+					},
+					"name": "test 2",
+					"disablity": true,
+					"id": "cat2",
+					"ticketIds": [
+						"1",
+						"2"
+					]
+				},
+				{
+					"color": {
+						"background": "rgba(122, 197, 109, 1)",
+						"foreground": "white"
+					},
+					"name": "test 3",
+					"disablity": false,
+					"id": "cat3",
+					"ticketIds": [
+						"2"
+					]
+				}
+			],
+			"categoryBeingEdited": ""
+		},
+		"tool": 0,
+		"rows": [
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 331.515625,
+					"y": 245.25
+				},
+				"end": {
+					"x": 505.515625,
+					"y": 245.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "1",
+				"labelPosition": "left-right",
+				"noOfSeats": 8,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "tc4n30u6pjcpvhpa79zf",
+				"id": "0.23659095810782205",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.23659095810782205",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "3hg30o0au4wfeao974tf",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 341.51562499999994,
+							"y": 245.24999999999997
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.23659095810782205",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "8zag5orikzeaxaw077e7",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 363.515625,
+							"y": 245.24999999999997
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.23659095810782205",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "l9gn6wlh5fy2femo8s6n",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 385.51562500000006,
+							"y": 245.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.23659095810782205",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "n3pdu92ntso0lhul7qwy",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 407.515625,
+							"y": 245.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.23659095810782205",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "6j6sz1bld0vtxsxbexio",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 429.515625,
+							"y": 245.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.23659095810782205",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "sjlux908385sghdijiwx",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 451.515625,
+							"y": 245.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.23659095810782205",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "fnc6whh1dnxk6vqf8d4d",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 473.515625,
+							"y": 245.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.23659095810782205",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "qwxttv2mxuxny86t8h27",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 495.515625,
+							"y": 245.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 331.515625,
+					"y": 267.25
+				},
+				"end": {
+					"x": 505.515625,
+					"y": 267.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "2",
+				"labelPosition": "left-right",
+				"noOfSeats": 8,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "tc4n30u6pjcpvhpa79zf",
+				"id": "0.4282884191647989",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.4282884191647989",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "lids1ye9rs53c9ea2ppy",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 341.51562499999994,
+							"y": 267.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.4282884191647989",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "m6s8i71xr0jfl6z414xr",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 363.515625,
+							"y": 267.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.4282884191647989",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "r8ean1v6mwc4q3b51vg2",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 385.51562500000006,
+							"y": 267.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.4282884191647989",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "bd4cd18j001nqlx5expt",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 407.515625,
+							"y": 267.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.4282884191647989",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "yxp4n5vaflijhgqrvq4n",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 429.515625,
+							"y": 267.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.4282884191647989",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "ht2lsqo0qh8fw7xu7x5t",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 451.515625,
+							"y": 267.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.4282884191647989",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "cobjvhbmyehgirp1u4sn",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 473.515625,
+							"y": 267.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.4282884191647989",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "p7gj0p599gj7vcdhh7pd",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 495.515625,
+							"y": 267.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 331.515625,
+					"y": 289.25
+				},
+				"end": {
+					"x": 505.515625,
+					"y": 289.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "3",
+				"labelPosition": "left-right",
+				"noOfSeats": 8,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "tc4n30u6pjcpvhpa79zf",
+				"id": "0.8973561173997888",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.8973561173997888",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "o2zbulc0zh83obcd7kwy",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 341.51562499999994,
+							"y": 289.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.8973561173997888",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "jqo1ww3ndcd6hwtycos7",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 363.515625,
+							"y": 289.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.8973561173997888",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "oz6ysue4hpg8v4wu4nvg",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 385.51562500000006,
+							"y": 289.25000000000006
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.8973561173997888",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "vo4j3txa7eb8kt45pehy",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 407.515625,
+							"y": 289.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.8973561173997888",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "sw9v8g2vra8h03kfdzq0",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 429.515625,
+							"y": 289.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.8973561173997888",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "biruxvdnywss1fmjbnpi",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 451.515625,
+							"y": 289.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.8973561173997888",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "xy139ch73lfv2tbj075k",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 473.515625,
+							"y": 289.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.8973561173997888",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "nbfb2zu3jbk7e24emon3",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 495.515625,
+							"y": 289.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 331.515625,
+					"y": 311.25
+				},
+				"end": {
+					"x": 505.515625,
+					"y": 311.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "4",
+				"labelPosition": "left-right",
+				"noOfSeats": 8,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "tc4n30u6pjcpvhpa79zf",
+				"id": "0.22775348384157756",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.22775348384157756",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "al07ezmcqriwjder51mr",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 341.51562499999994,
+							"y": 311.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.22775348384157756",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "5dl7fgkzcc8yfumlqqh5",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 363.515625,
+							"y": 311.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.22775348384157756",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "jegohx0qlipjgepswzri",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 385.51562500000006,
+							"y": 311.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.22775348384157756",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "mkqvodksxwd2yuo8nvvj",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 407.515625,
+							"y": 311.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.22775348384157756",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "jr95zlvq5hdr08eme9dc",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 429.515625,
+							"y": 311.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.22775348384157756",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "m063d04eiq6vu9l32uuh",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 451.515625,
+							"y": 311.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.22775348384157756",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "zkhh41f41afj8f4qrtrh",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 473.515625,
+							"y": 311.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.22775348384157756",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "0jumzb20mbs8sdjv0fz9",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 495.515625,
+							"y": 311.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 331.515625,
+					"y": 333.25
+				},
+				"end": {
+					"x": 505.515625,
+					"y": 333.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "5",
+				"labelPosition": "left-right",
+				"noOfSeats": 8,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "tc4n30u6pjcpvhpa79zf",
+				"id": "0.7534506465697728",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.7534506465697728",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "azrew83brohtx3k0odyu",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 341.51562499999994,
+							"y": 333.24999999999994
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.7534506465697728",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "ugr40pjzmujfsnykud4z",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 363.515625,
+							"y": 333.24999999999994
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.7534506465697728",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "lay1jcaiyjo0dhoechqe",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 385.51562500000006,
+							"y": 333.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.7534506465697728",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "db4ade2h4stkhr8s1cmf",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 407.515625,
+							"y": 333.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.7534506465697728",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "cfgmtb5og3vcet5dfkdn",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 429.515625,
+							"y": 333.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.7534506465697728",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "qkihjexj7nabncj7ar6h",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 451.515625,
+							"y": 333.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.7534506465697728",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "2u0p3584pm1u18c7nnky",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 473.515625,
+							"y": 333.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.7534506465697728",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "hu9uvuf7cxdpsjw38087",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 495.515625,
+							"y": 333.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 331.515625,
+					"y": 355.25
+				},
+				"end": {
+					"x": 505.515625,
+					"y": 355.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "6",
+				"labelPosition": "left-right",
+				"noOfSeats": 8,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "tc4n30u6pjcpvhpa79zf",
+				"id": "0.38467974627209167",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.38467974627209167",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "vzlio1c42ibgioxp18e3",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 341.51562499999994,
+							"y": 355.24999999999994
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.38467974627209167",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "xu3xry83lawrqhzic39m",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 363.515625,
+							"y": 355.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.38467974627209167",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "d1077axz53xzze99abl6",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 385.51562500000006,
+							"y": 355.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.38467974627209167",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "iv1gu73hhmd5bbn982s3",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 407.515625,
+							"y": 355.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.38467974627209167",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "hyybuv8nq7c4x2w2kpww",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 429.515625,
+							"y": 355.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.38467974627209167",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "pnm328gtzujqb1yrqfsz",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 451.515625,
+							"y": 355.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.38467974627209167",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "vjzom2cszvqp2uv39whe",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 473.515625,
+							"y": 355.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.38467974627209167",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "s9yfvspuoq235o2eyjz9",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 495.515625,
+							"y": 355.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 331.515625,
+					"y": 377.25
+				},
+				"end": {
+					"x": 505.515625,
+					"y": 377.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "7",
+				"labelPosition": "left-right",
+				"noOfSeats": 8,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "tc4n30u6pjcpvhpa79zf",
+				"id": "0.47024701301815175",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.47024701301815175",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "9qb303fdrwc2tadwoi2t",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 341.51562499999994,
+							"y": 377.24999999999994
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.47024701301815175",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "reexdzur5tjhoumpia1d",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 363.515625,
+							"y": 377.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.47024701301815175",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "67o6muti4e83aly4h9tm",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 385.51562500000006,
+							"y": 377.25000000000006
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.47024701301815175",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "47cvbfgj96gxhkgq1bjz",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 407.515625,
+							"y": 377.25000000000006
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.47024701301815175",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "xuqdbrkrkofoa1ugkron",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 429.515625,
+							"y": 377.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.47024701301815175",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "hinxsykaxj1pisruzhvi",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 451.515625,
+							"y": 377.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.47024701301815175",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "wyu3b5lu81nuspykefa4",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 473.515625,
+							"y": 377.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.47024701301815175",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "ofnoj3nv4cdp26ok28qk",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 495.515625,
+							"y": 377.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 331.515625,
+					"y": 399.25
+				},
+				"end": {
+					"x": 505.515625,
+					"y": 399.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "8",
+				"labelPosition": "left-right",
+				"noOfSeats": 8,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "tc4n30u6pjcpvhpa79zf",
+				"id": "0.8402036191252764",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.8402036191252764",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "e8enswxoyh9lahzdbbqt",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 341.51562499999994,
+							"y": 399.24999999999994
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.8402036191252764",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "z2do871v8ay9v4ckjhm5",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 363.515625,
+							"y": 399.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.8402036191252764",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "38wijuwpyj3evmugwgtf",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 385.51562500000006,
+							"y": 399.25000000000006
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.8402036191252764",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "flnwrtq7375vvw3u23qf",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 407.515625,
+							"y": 399.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.8402036191252764",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "r0wx4xf78yxp49huvcot",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 429.515625,
+							"y": 399.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.8402036191252764",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "wo3jj52717r949l30hcr",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 451.515625,
+							"y": 399.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.8402036191252764",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "snpnz1tpuofh0jbs6ngk",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 473.515625,
+							"y": 399.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.8402036191252764",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "98fhnb6nvhna49apf49j",
+						"labelModified": false,
+						"categoryId": "cat1",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 495.515625,
+							"y": 399.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 556.515625,
+					"y": 297.25
+				},
+				"end": {
+					"x": 884.515625,
+					"y": 297.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "1",
+				"labelPosition": "left-right",
+				"noOfSeats": 15,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "lyw8pldee6js36afvfuy",
+				"id": "0.28775858575943025",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat1",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "xcq5lpfqcjugj5y1pazm",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 566.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "anj8pvdnzjvc622ihw3z",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 588.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "akymjii5g4sty0mj45hz",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 610.5156249999999,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "2zl6a6h3sx03sqhse1sa",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 632.5156250000001,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "us97hurdf13j532hek7d",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 654.5156249999999,
+							"y": 297.24999999999994
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "exg2dh9cw836xc9rg8mh",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 676.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "er91edie92bnmaewq5fz",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 698.515625,
+							"y": 297.25000000000006
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "dc7krfw5uu2e5hzj154e",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 720.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "sw87ublz8krat18pjx04",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 742.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "wune5bfsgk9nh787mg18",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 764.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "uotcijjiw4ebbhl9m6sj",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 786.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "rm132rfsxyccqeirqu5h",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 808.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "ryjd8ymv7ygrge8uaeo8",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 830.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "0gh4eyu4vf1ju4bvgth5",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 852.515625,
+							"y": 297.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.28775858575943025",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "8i5bch6xzjnezesoxfx4",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 874.5156249999999,
+							"y": 297.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 556.515625,
+					"y": 319.25
+				},
+				"end": {
+					"x": 884.515625,
+					"y": 319.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "2",
+				"labelPosition": "left-right",
+				"noOfSeats": 15,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "lyw8pldee6js36afvfuy",
+				"id": "0.08008113144199247",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat1",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "zl9wzllqr3s4fsjnapka",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 566.515625,
+							"y": 319.24999999999994
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "cl2hz6hb5ee6jbq73dhr",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 588.515625,
+							"y": 319.25000000000006
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "ryhszdje4livq3n1selb",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 610.5156249999999,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "xun5nysje89oifup5p0j",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 632.5156250000001,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "igp5izi6txnxe1sb9lbj",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 654.5156249999999,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "m16aiut3idq23i2pip94",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 676.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "4bfk2mmja3dm8xdgdp1g",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 698.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "jjcw6ohvvnmez88v06ho",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 720.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "53ben4rpcfazpryj4ncv",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 742.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "0kxs8pzsr93hjourx5gj",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 764.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "w8zvwo9egyiefqmb158b",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 786.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "by1lyjkac0owbys3na30",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 808.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "wf10480n9y9wlmvccv3n",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 830.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "8ltvf7tkv8i0iui5xxtm",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 852.515625,
+							"y": 319.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.08008113144199247",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "iadll8b017q4bxcbm9fe",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 874.5156249999999,
+							"y": 319.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 556.515625,
+					"y": 341.25
+				},
+				"end": {
+					"x": 884.515625,
+					"y": 341.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "3",
+				"labelPosition": "left-right",
+				"noOfSeats": 15,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "lyw8pldee6js36afvfuy",
+				"id": "0.47729184060400587",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat1",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "tjv2ea964sp2004d7xfh",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 566.515625,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "gixgmp6spae9wsr17fvu",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 588.515625,
+							"y": 341.25000000000006
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "ueh55yq5e1o03inaz3au",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 610.5156249999999,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "6jy9yhtisfeqlu43jgx3",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 632.5156250000001,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "wk0ltwgs4b0ybladqzr4",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 654.5156249999999,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "nraxmdn33z907d60vl15",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 676.515625,
+							"y": 341.24999999999994
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "y8jloymdyeso14xzz34m",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 698.515625,
+							"y": 341.25000000000006
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "iy9793mlejs927bfgje1",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 720.515625,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "gka6b5ptnp0f5t0i29tj",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 742.515625,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "2xottxewy0muq5vcnde8",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 764.515625,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "spmvmo9wgsmd6amoo5lv",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 786.515625,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "famkt855bativ2qqdc8o",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 808.515625,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "i9w51851psiv48xqi6x8",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 830.515625,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "v6p6lm9wzi5ugvacvm17",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 852.515625,
+							"y": 341.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.47729184060400587",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "52ooa1pyu5sgmwhmdraa",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 874.5156249999999,
+							"y": 341.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 556.515625,
+					"y": 363.25
+				},
+				"end": {
+					"x": 884.515625,
+					"y": 363.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "4",
+				"labelPosition": "left-right",
+				"noOfSeats": 15,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "lyw8pldee6js36afvfuy",
+				"id": "0.20741276243422924",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat1",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "xejcue53jpar8ef3ty8r",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 566.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "ycak044tnhvkqdmvb5ex",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 588.515625,
+							"y": 363.25000000000006
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "e7te28tk19hl0m7u7ab8",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 610.5156249999999,
+							"y": 363.24999999999994
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "z5f75lgzzzy67u0wpgbc",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 632.5156250000001,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "ptita0mvlfes3mlyal3z",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 654.5156249999999,
+							"y": 363.24999999999994
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "juu8k3wulpxw7n4rx0j3",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 676.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "a8rp6zsszzn19mxt524l",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 698.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "yci8q6fwc85j0011l0sk",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 720.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "qvo2osq52xyyqtkqp9pn",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 742.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "0ul5y7g34ck86h4vksnt",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 764.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "mjymhxxk0lgjunt07p8e",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 786.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "jdwxdtqaqxbfoe70gl1h",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 808.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "ikxbp2nxtsbp10hor3vm",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 830.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "2rip0tekk67hzrlw6ii1",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 852.515625,
+							"y": 363.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.20741276243422924",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "qihgylh6kai2xlta175j",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 874.5156249999999,
+							"y": 363.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 556.515625,
+					"y": 385.25
+				},
+				"end": {
+					"x": 884.515625,
+					"y": 385.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "5",
+				"labelPosition": "left-right",
+				"noOfSeats": 15,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "lyw8pldee6js36afvfuy",
+				"id": "0.3407250754810984",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat1",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "3xwxf1lwlww58ho1o58r",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 566.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "3eszk4wm5d0t9memj3bk",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 588.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "etfi4kcilgrnuneetw8w",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 610.5156249999999,
+							"y": 385.24999999999994
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "ttnhwu3r6h977j5wo56q",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 632.5156250000001,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "f17takvquys2o077c3uk",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 654.5156249999999,
+							"y": 385.2499999999999
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "49cmow29khaklaw22fu1",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 676.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "74nk69m9hj6jisg0wfon",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 698.515625,
+							"y": 385.25000000000006
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "fdstoz4l637i0tclubup",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 720.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "kgs120qadzb1bmekmmnz",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 742.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "5hcrh2ge7ru4o5zhbv18",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 764.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "t4rl6cymo6z6qr3f9vtj",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 786.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "0s6a17uv7uryblshq6ce",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 808.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "9j50uprwwk62655kkum8",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 830.515625,
+							"y": 385.24999999999994
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "jeg9wvtt1zr4ohbqogwz",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 852.515625,
+							"y": 385.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.3407250754810984",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "ntm9f2zok2g85ow3ws9o",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 874.5156249999999,
+							"y": 385.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 556.515625,
+					"y": 407.25
+				},
+				"end": {
+					"x": 884.515625,
+					"y": 407.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "6",
+				"labelPosition": "left-right",
+				"noOfSeats": 15,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "lyw8pldee6js36afvfuy",
+				"id": "0.11072838191347256",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat1",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "6rekwp6omh9chfud6gcv",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 566.515625,
+							"y": 407.24999999999994
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "nve8rz0o5zkxg17drhr3",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 588.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "litz14uc4ehfm4633kt3",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 610.5156249999999,
+							"y": 407.24999999999994
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "u7sidkh4w0ea9pta41mq",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 632.5156250000001,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "sfj63jqmq6xb9j1oqmws",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 654.5156249999999,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "b141zv4aqnejgk3qk80y",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 676.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "j6e1pxijzabob9vwsxpv",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 698.515625,
+							"y": 407.25000000000006
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "u3rhll5c32205wcaeu0a",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 720.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "xe7okap825w7bz7adt2k",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 742.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "m0g2z3l0shlwz5tx58wk",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 764.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "pddozmbt85u18knf8q1r",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 786.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "2hurwi9ruaiex5829wvg",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 808.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "whhn8r1ngb4jl2wk6ap1",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 830.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "cdil892wibia0av13fw6",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 852.515625,
+							"y": 407.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.11072838191347256",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "u03q3npoa4lbdgkhj3za",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 874.5156249999999,
+							"y": 407.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 556.515625,
+					"y": 429.25
+				},
+				"end": {
+					"x": 884.515625,
+					"y": 429.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "7",
+				"labelPosition": "left-right",
+				"noOfSeats": 15,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "lyw8pldee6js36afvfuy",
+				"id": "0.046485330386837775",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat1",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "q0xlc7chn39jate7d3fy",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 566.515625,
+							"y": 429.24999999999994
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "1sp0x8mot8ef99t6as4d",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 588.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "sdzg0sw0jdzz02rsta26",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 610.5156249999999,
+							"y": 429.2499999999999
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "erhxbxgj7dn9snni0mt6",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 632.5156250000001,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "qqopft9yjgxx243lw9l5",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 654.5156249999999,
+							"y": 429.24999999999994
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "aaqcdf423bumu59c1cnr",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 676.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "8pp82wgoyhkdk7wx6jrq",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 698.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "3wrpk5wvdmectojxk9el",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 720.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "17hebqm3ehq7o1920i17",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 742.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "tyiyx292q24wz1hyrfyp",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 764.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "m9jtubqkeaabhacyllx7",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 786.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "z89oaij7gzmx7d0h5t3r",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 808.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "t3rp7qwsypcup5eb05p8",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 830.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "qpz43h2zplg66kf3mlnn",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 852.515625,
+							"y": 429.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.046485330386837775",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "fuyvhuaar9u78d2qw5wt",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 874.5156249999999,
+							"y": 429.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 556.515625,
+					"y": 451.25
+				},
+				"end": {
+					"x": 884.515625,
+					"y": 451.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "8",
+				"labelPosition": "left-right",
+				"noOfSeats": 15,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "lyw8pldee6js36afvfuy",
+				"id": "0.4848011041269771",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat1",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "cl46xku3dkzws6f7z9x0",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 566.515625,
+							"y": 451.24999999999994
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "77zhi8ji75oe0c9n966q",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 588.515625,
+							"y": 451.25000000000006
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "iczwn5tziimocydmjz8s",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 610.5156249999999,
+							"y": 451.24999999999994
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "aygx09f2btmjcr97t9u2",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 632.5156250000001,
+							"y": 451.25000000000006
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "lzrk00xmo907pva52lfb",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 654.5156249999999,
+							"y": 451.24999999999994
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "t4fbbupru5nxst4b9uj2",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 676.515625,
+							"y": 451.24999999999994
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "u0exqz4i4dthw9y879xu",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 698.515625,
+							"y": 451.25000000000006
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "lbbodqln08yup1th75a2",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 720.515625,
+							"y": 451.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "basjrrjh34x7ab86lif2",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 742.515625,
+							"y": 451.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "u6zkoefwa8yyu2m2ifjh",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 764.515625,
+							"y": 451.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "7xjmdczuvil9npbl2z7n",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 786.515625,
+							"y": 451.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "luj8a1wj3w7g5d1v8l4d",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 808.515625,
+							"y": 451.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "stiwf88gkc4anqkpccbe",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 830.515625,
+							"y": 451.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "o4w1d9acki1tcmppzk2w",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 852.515625,
+							"y": 451.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.4848011041269771",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "ms9jb3njgywb6avzs8tc",
+						"labelModified": false,
+						"categoryId": "cat2",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 874.5156249999999,
+							"y": 451.24999999999994
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 189.515625,
+					"y": 107.25
+				},
+				"end": {
+					"x": 539.515625,
+					"y": 107.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "1",
+				"labelPosition": "left-right",
+				"noOfSeats": 16,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "nji1pp0fxl2i33kg57m0",
+				"id": "0.5017659503622165",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat2",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "nvhk7e8tklvch64zxxsk",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 199.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "rqw4o7mqygd72btoihx8",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 221.515625,
+							"y": 107.25000000000001
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "btb95ux145pmftyqet2r",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 243.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "wo22jyk4xvm0nar3l5ss",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 265.515625,
+							"y": 107.25000000000001
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "ijyrv9jpxssutxprjtdv",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 287.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "dy0p729gqv5ws5ma6q72",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 309.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "mdkza0y27mkm9ttx1tyx",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 331.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "jfgr7sdrnyzn7o3ebjjo",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 353.515625,
+							"y": 107.24999999999999
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "omizz9dev1arz78m714h",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 375.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "vper69aapdndhrvi6s6g",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 397.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "cjtacio2nxdp5cu9fiql",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 419.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "xbwwv5ykl1w4ownk9fim",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 441.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "72com6ssk5uhge61wudg",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 463.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "7x1tvwpadbk4b8qsftc8",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 485.515625,
+							"y": 107.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "6trhdm6zp41s8oyqob6p",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 507.51562500000006,
+							"y": 107.25000000000001
+						}
+					},
+					{
+						"index": 15,
+						"rowId": "0.5017659503622165",
+						"radius": 10,
+						"label": "16",
+						"type": "seat",
+						"id": "unvwe15wkqv30wwzo7ed",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 529.515625,
+							"y": 107.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 189.515625,
+					"y": 129.25
+				},
+				"end": {
+					"x": 539.515625,
+					"y": 129.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "2",
+				"labelPosition": "left-right",
+				"noOfSeats": 16,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "nji1pp0fxl2i33kg57m0",
+				"id": "0.060604372885921576",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat2",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "fd9qu6kp5t2b5fa5yk7i",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 199.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "8ghwkib94tspud69ge2m",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 221.515625,
+							"y": 129.25000000000003
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "e4oiqmq2fuwwlm6dqvc1",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 243.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "7gf8nbolwhyh2vw73xkv",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 265.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "lf2b7ki20v4jx7o7jxn3",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 287.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "3vz7vl2g2nmavv07xa0o",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 309.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "g5iz7lt6msflw4gpst2q",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 331.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "7jfwnljurlul9yadch8m",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 353.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "rbbiwevr7ikm4fk51tjj",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 375.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "cmht6m2zioftyzuj1z8g",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 397.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "c7btggldbv4a6mo0r5yg",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 419.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "v4zn58js0z12nfx91fdg",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 441.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "d8vz30401x7osc57pbvr",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 463.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "eclm824f6i3nswgmzi1x",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 485.515625,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "69jd1iig655a1ucij06h",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 507.51562500000006,
+							"y": 129.25
+						}
+					},
+					{
+						"index": 15,
+						"rowId": "0.060604372885921576",
+						"radius": 10,
+						"label": "16",
+						"type": "seat",
+						"id": "tsczd62pz5ozdfawjpjc",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 529.515625,
+							"y": 129.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 189.515625,
+					"y": 151.25
+				},
+				"end": {
+					"x": 539.515625,
+					"y": 151.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "3",
+				"labelPosition": "left-right",
+				"noOfSeats": 16,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "nji1pp0fxl2i33kg57m0",
+				"id": "0.1976777005097119",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat2",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "jl9g6r1sttns5cio2po9",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 199.515625,
+							"y": 151.25000000000003
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "lohbpcssqblocpz3l133",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 221.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "1jb4izh36dkqn1hfkirh",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 243.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "55plszzncj696vudo05u",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 265.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "62k9z079a9o80fossue7",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 287.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "3zhb7du8lrxayauowlk4",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 309.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "njc463ua6bh18cvfu0a1",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 331.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "3dy06j99jilb6o9dpb1n",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 353.515625,
+							"y": 151.24999999999997
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "onkf0ckebmwjxujzp5lm",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 375.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "occpgd3kvj9kpql7bxah",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 397.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "ovagda0umjg3o1j5tkys",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 419.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "d2adc5vts52i3ai0xyfy",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 441.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "131iw3bv1t8qd4os3zpr",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 463.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "ulz6grn1svl936051brn",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 485.515625,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "wjct5g2eqrj7hkgkfyup",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 507.51562500000006,
+							"y": 151.25
+						}
+					},
+					{
+						"index": 15,
+						"rowId": "0.1976777005097119",
+						"radius": 10,
+						"label": "16",
+						"type": "seat",
+						"id": "ubj14stqlwv5nrif9ce5",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 529.515625,
+							"y": 151.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 189.515625,
+					"y": 173.25
+				},
+				"end": {
+					"x": 539.515625,
+					"y": 173.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "4",
+				"labelPosition": "left-right",
+				"noOfSeats": 16,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "nji1pp0fxl2i33kg57m0",
+				"id": "0.8348545919322741",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat2",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "8zu5n00077ldt8lw2dde",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 199.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "1kiodk1mz94a8t71md2o",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 221.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "bmtpd44utxavup08ppwg",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 243.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "fynq9i61h1yxg9yt4cm9",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 265.515625,
+							"y": 173.25000000000003
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "qq6gdka9tuvmw23wh4c6",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 287.515625,
+							"y": 173.24999999999997
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "8qfrjjju06o2xqxxo6gj",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 309.515625,
+							"y": 173.25000000000003
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "2yr2mtw6i206uaz50lk2",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 331.515625,
+							"y": 173.24999999999997
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "843u33mvutmpz21sidul",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 353.515625,
+							"y": 173.24999999999997
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "p8ygx9dymmhzn17m52nb",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 375.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "4jeu8alsjy608azjby6h",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 397.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "58oklfgn6mco5j41qpim",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 419.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "1mp75dhag13pdu9qou0w",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 441.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "ms47x3x1fu3w9s9k60pc",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 463.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "18dsmnemmf4uxzlt4e0t",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 485.515625,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "ttg50xhcnx2l8usbhabw",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 507.51562500000006,
+							"y": 173.25
+						}
+					},
+					{
+						"index": 15,
+						"rowId": "0.8348545919322741",
+						"radius": 10,
+						"label": "16",
+						"type": "seat",
+						"id": "bnjow2wkboizut0bfq1v",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 529.515625,
+							"y": 173.25
+						}
+					}
+				],
+				"selected": false
+			},
+			{
+				"labelType": "numbers-normal",
+				"rowSpacing": 0,
+				"start": {
+					"x": 189.515625,
+					"y": 195.25
+				},
+				"end": {
+					"x": 539.515625,
+					"y": 195.25
+				},
+				"gapping": 2,
+				"radius": 10,
+				"beingCreated": false,
+				"curve": 0,
+				"label": "5",
+				"labelPosition": "left-right",
+				"noOfSeats": 16,
+				"reverseLabel": false,
+				"seatsLabelType": 0,
+				"skew": 0,
+				"startingAt": "1",
+				"angle": 0,
+				"angleBeforeRotation": 0,
+				"center": {
+					"x": 0,
+					"y": 0
+				},
+				"groupId": "nji1pp0fxl2i33kg57m0",
+				"id": "0.4269401479569275",
+				"ignoreDeletedSeatsForLabels": false,
+				"categoryId": "cat2",
+				"lessNoOfSeats": false,
+				"seats": [
+					{
+						"index": 0,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "1",
+						"type": "seat",
+						"id": "bx4w3m54h0rdneuwjxrz",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 199.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 1,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "2",
+						"type": "seat",
+						"id": "4lat7j9p4po51ler7y61",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 221.515625,
+							"y": 195.25000000000003
+						}
+					},
+					{
+						"index": 2,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "3",
+						"type": "seat",
+						"id": "mwc9s68k9dvtc0qdgb8o",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 243.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 3,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "4",
+						"type": "seat",
+						"id": "z345ki4q12d0ygb92vt9",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 265.515625,
+							"y": 195.25000000000003
+						}
+					},
+					{
+						"index": 4,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "5",
+						"type": "seat",
+						"id": "97mrp71u8egcrbfzzsyb",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 287.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 5,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "6",
+						"type": "seat",
+						"id": "31jfm4l5ewgour8x1g8n",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 309.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 6,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "7",
+						"type": "seat",
+						"id": "euzn91erpra9atfqmib9",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 331.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 7,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "8",
+						"type": "seat",
+						"id": "innvivo5jxu3prfly014",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 353.515625,
+							"y": 195.24999999999997
+						}
+					},
+					{
+						"index": 8,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "9",
+						"type": "seat",
+						"id": "yc3fc855jto52mrx9tvf",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 375.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 9,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "10",
+						"type": "seat",
+						"id": "xrzdtl0qattgn3psqc2e",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 397.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 10,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "11",
+						"type": "seat",
+						"id": "d9ialrx2xf2lr48zpz0x",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 419.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 11,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "12",
+						"type": "seat",
+						"id": "sbn6scv1bji1bnjubvbm",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 441.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 12,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "13",
+						"type": "seat",
+						"id": "ty62zl3ba24x8enh4ryn",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 463.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 13,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "14",
+						"type": "seat",
+						"id": "oeqi4g9r2ghw2ue2yy3f",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 485.515625,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 14,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "15",
+						"type": "seat",
+						"id": "8xwowqcwuywycda011pa",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 507.51562500000006,
+							"y": 195.25
+						}
+					},
+					{
+						"index": 15,
+						"rowId": "0.4269401479569275",
+						"radius": 10,
+						"label": "16",
+						"type": "seat",
+						"id": "rm0nzfnhojgyq6p4lu2v",
+						"labelModified": false,
+						"categoryId": "cat3",
+						"recentlyDeleted": false,
+						"selected": false,
+						"deleted": false,
+						"purchaseData": {
+							"purchased": false
+						},
+						"position": {
+							"x": 529.515625,
+							"y": 195.25
+						}
+					}
+				],
+				"selected": false
+			}
+		],
+		"isRotating": false,
+		"tempRowSettings": {},
+		"tempRowGroupSetting": {},
+		"defaultShapeOptions": {
+			"figureType": "square",
+			"shapeType": "standing"
+		},
+		"noOfSeatsChanged": false,
+		"mouseDownPoint": {
+			"x": 635.515625,
+			"y": 668.25
+		},
+		"isMouseDown": false,
+		"mouseUpPoint": {
+			"x": 635.515625,
+			"y": 668.25
+		},
+		"mouseDownPointOnSelectionRect": {
+			"x": 584.515625,
+			"y": 199.25
+		},
+		"lastSaveTime": "2024-03-27T11:45:34.928Z"
+	},
+	"description": "test description",
+	"id": "41q8gyvm6o88eiwyt9p3",
+	"private": false,
+	"published": true,
+	"name": "test2",
+	"ownerImage": ""
+}
